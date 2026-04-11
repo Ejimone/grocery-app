@@ -1,5 +1,7 @@
 # Grocery App
 
+A Grocery App for Freshmart
+
 ## Screenshot
 
 ![Admin login preview](public/images/admin-login-screenshot.png)
