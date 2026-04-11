@@ -1,7 +1,5 @@
 # Grocery App
 
-Minimal Apple-inspired grocery store web app built with PHP 8.1+ and MongoDB.
-
 ## Screenshot
 
 ![Admin login preview](public/images/admin-login-screenshot.png)
@@ -21,7 +19,6 @@ Minimal Apple-inspired grocery store web app built with PHP 8.1+ and MongoDB.
    ```
 
 2. Ensure the root `.env` file exists and contains valid values for:
-
    - `MONGODB_URI`
    - `MONGODB_DB`
    - `ADMIN_PASSWORD`
