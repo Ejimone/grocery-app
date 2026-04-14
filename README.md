@@ -5,6 +5,7 @@ A Grocery App for Freshmart
 ## Screenshot
 
 ![Admin login preview](public/images/admin-login-screenshot.png)
+![Homepage preview](public/images/homepage-screenshot.png)
 
 ## Tech Stack
 
